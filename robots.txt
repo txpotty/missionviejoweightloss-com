@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://missionviejoweightloss.com/sitemap.xml
